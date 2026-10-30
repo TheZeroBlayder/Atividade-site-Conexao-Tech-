@@ -1,0 +1,19 @@
+header {
+    background-color: #c90000;
+    padding: 10px; 
+    text-align: center;
+} 
+
+footer {
+    padding: 10px;
+} 
+
+section {
+    margin: 20px;
+    padding: 20px;
+} 
+
+aside {
+    padding: 15px;
+    margin: 10px;
+}
